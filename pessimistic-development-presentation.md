@@ -1,7 +1,7 @@
-# [fit] Pessimistic Development
-## [fit] You can't write perfect software
+# [fit] Pessimistic *Development*
+## [fit] **You *can't* write perfect software**
 ---
-> I write perfect code.
+> I write *perfect* code.
 -- Me
 
 ---
@@ -15,10 +15,10 @@
   - Anticipate the unexpected
 
 ---
-# We code like we drive...
+# We *code* like we *drive*...
 
 ---
-# we believe we are the best developer out there.
+## we believe we are the best developer out there.
 
 ---
 # This is shown through defensive coding
@@ -27,22 +27,22 @@
   - Check for Consistency
 
 ---
-# But don't trust yourself
+# But don't *trust* yourself
 
 ---
-# Building a Pessimistic Approach
+# Building a *Pessimistic* Approach
 - Design By Contract
 - Program for the Impossible
 - Assertive Programming
 - Alert Gracefully
 
 ---
-# Design By Contract
+# Design By *Contract*
 ![](images/signed-away-2-1549841-1918x1221.jpg)
 
 ---
 ![](images/signed-away-2-1549841-1918x1221.jpg)
-# What does a contract look like in real life?
+## What does a contract look like in real life?
 
 ---
 ![](images/signed-away-2-1549841-1918x1221.jpg)
@@ -88,20 +88,20 @@ public interface IRepository<TEntityType>
 - Don't just test your code, test your assumptions
 
 ---
-# Program for the Impossible
+# Program for the *Impossible*
 ### No one would ever do that...
 
 ---
-# Users aren't the only one who create unexpected
+## Users *aren't* the only one who create unexpected
 
 ---
-> This code won't be used 30 years from now, so two-digit dates are fine
+### This code won't be used *30 years from now*, so two-digit dates are fine
 
 ---
-> No one would pass null to us since it comes from the database...
+### No one would pass *null* to us since it comes from the database...
 
 ---
-# We make BIG assumptions that can lead to trouble.
+## We make *BIG* assumptions that can lead to trouble.
 
 ---
 # Expect the unexpected
@@ -118,7 +118,7 @@ if (obj && obj.prop && obj.prop.name)
 }
 ```
 ---
-# Assertive Programming
+# *Assertive* Programming
 
 ---
 # C# Example
